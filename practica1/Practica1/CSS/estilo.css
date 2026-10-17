@@ -1,0 +1,73 @@
+body {
+margin: 0;
+padding: 0;
+}
+    #encabezado {
+        background-color: aquamarine;
+        display: flex;
+        justify-content: center;
+    }
+
+    #logotipo {
+        background-color: aqua;
+    }
+
+    #portada {
+        background-color: midnightblue;
+    }
+
+    #menu {
+        background-color: aquamarine;
+     width: 600px;
+    }
+    #menu ul li {
+     display: inline;
+     margin-right:  10% ;
+     
+    }
+
+    #acercademi {
+        background-color: rgb(157, 82, 82);
+        display: flex;
+        
+    }
+    #textoacercademi {
+        background-color: antiquewhite;
+        text-align: center;
+        width: 100%;
+    }
+    #portafolio {
+        background-color: bisque;
+
+    }
+    #trabajos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+
+    #contacto {
+        background-color: aquamarine;
+    }
+
+    #imgportada {
+        margin: 0%;
+        height: 400px;
+        width: 960px;
+    }
+    
+    #presentacion {
+        background-color: coral;
+    }
+
+    #habilidades {
+        background-color: darksalmon;
+        display: flex;
+    }
+    
+    #descarga {
+        background-color: darkorchid;
+        width: 100%;
+        text-align: center;
+    }
